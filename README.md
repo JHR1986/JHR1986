@@ -2,6 +2,8 @@
 
 I'm a Software engineer based in Ireland working as a Software QA Specialist for SEAtS Software, an education success IT company for universities. My Github contains 4 full-stack software development projects I completed for my University College Dublin Professional Academy diploma, as well as further personal projects.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHR1986)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JHR1986/JHR1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
