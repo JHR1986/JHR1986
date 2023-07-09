@@ -8,6 +8,8 @@ I'm a Software engineer based in Ireland working as a Software QA Specialist for
 * Frameworks & Libraries: Postman, jQuery, Django, Microsoft SQL Server, Postgres (DBeaver), MongoDB, AWS.
 * Other Applications: Azure Devops, aha, Freshdesk, Asana, Filezilla, Octopus, Power Query, Figma, Octopus
 
+<img width="674" alt="file" src="https://github.com/JHR1986/JHR1986/assets/71781554/ad702e6e-c245-4bb9-8e7b-ef0704989a8e">
+
 
 <!--
 **JHR1986/JHR1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
