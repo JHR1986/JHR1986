@@ -8,7 +8,13 @@ I'm a Software engineer based in Ireland working as a Software QA Specialist for
 * Frameworks & Libraries: Postman, Playwright, jQuery, Django, Microsoft SQL Server, Postgres (DBeaver), MongoDB, AWS.
 * Other Applications: Azure Devops, aha, Freshdesk, Asana, Filezilla, Octopus, Power Query, Figma, Octopus
 
-<img width="674" alt="file" src="https://github.com/JHR1986/JHR1986/assets/71781554/ad702e6e-c245-4bb9-8e7b-ef0704989a8e">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JHR1986)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/john-henry-roche//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHR1986)](https://github.com/anuraghazra/github-readme-stats)
+
+<img width="674" alt="file" src="https://github.com/JHR1986/JHR1986/assets/71781554/ad702e6e-c245-4bb9-8e7b-ef0704989a8e"> 
 
 
 <!--
