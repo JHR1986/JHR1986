@@ -3,9 +3,10 @@
 
 I'm a Software engineer based in Ireland working as a Software QA Specialist for SEAtS Software, an education success IT company for universities. My Github contains 4 full-stack software development projects I completed for my University College Dublin Professional Academy diploma, as well as further personal projects.
 
-Skills: Langauges: HTML, CSS, Python & Javascript - using VSCode as IDE 
-Frameworks & Libraries: Postman, jQuery, Django, Microsoft SQL Server, Postgres (DBeaver), MongoDB, AWS. 
-Other Applications: Azure Devops, aha, Freshdesk, Asana, Filezilla, Octopus, Power Query, Figma
+### Skills: 
+1: Langauges: HTML, CSS, Python & Javascript - using VSCode as IDE 
+2: Frameworks & Libraries: Postman, jQuery, Django, Microsoft SQL Server, Postgres (DBeaver), MongoDB, AWS. 
+3: Other Applications: Azure Devops, aha, Freshdesk, Asana, Filezilla, Octopus, Power Query, Figma
 
 
 
