@@ -7,6 +7,7 @@ I'm a Software engineer based in Ireland working as a Software QA Specialist for
 * Langauges: HTML, CSS, Python, Typescript & Javascript - using VSCode as IDE 
 * Frameworks & Libraries: Postman, Playwright, jQuery, Django, Microsoft SQL Server, Postgres (DBeaver), MongoDB, AWS.
 * Other Applications: Azure Devops, aha, Freshdesk, Asana, Filezilla, Octopus, Power Query, Figma, Octopus
+* Currently learning/completing courses for C# and React as part of my ongoing personal development in Software Development
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JHR1986)  
 
